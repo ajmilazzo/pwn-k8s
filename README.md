@@ -2,7 +2,7 @@
 
 A highly exploitable, overly privileged kubernetes deployment + exploit script.
 
-<img src="/captain-hook.png" width="200" /
+<img src="/captain-hook.png" width="200" />
 
 ## Usage
 
