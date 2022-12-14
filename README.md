@@ -1,10 +1,10 @@
 # pwn-k8s
 
+A highly exploitable, overly privileged kubernetes deployment + exploit script.
+
 ## Usage
 
 See [flycatcher-k8s](https://github.com/ajmilazzo/flycatcher-k8s) for kubernetes security tools to defend against this sort of attack.
-
-A highly exploitable, overly privileged kubernetes deployment + exploit script.
 
 ## pwnable.yaml
 
