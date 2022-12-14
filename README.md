@@ -2,6 +2,8 @@
 
 A highly exploitable, overly privileged kubernetes deployment + exploit script.
 
+![Captain Hook](/captain-hook.png)
+
 ## Usage
 
 Ensure you a kubernetes cluster (minikube, k3s, etc) setup & `kubectl` installed.
