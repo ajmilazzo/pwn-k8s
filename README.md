@@ -4,7 +4,14 @@ A highly exploitable, overly privileged kubernetes deployment + exploit script.
 
 ## Usage
 
+Ensure you a kubernetes cluster (minikube, k3s, etc) setup & `kubectl` installed.
+
+1. Spin up the deployment: `kubectl apply -f pwnable.yaml`
+2. Hack: `./pwn.sh`
+
 See [flycatcher-k8s](https://github.com/ajmilazzo/flycatcher-k8s) for kubernetes security tools to defend against this sort of attack.
+
+Note: this has been tested on `macOS 13` with a `k3os` cluster. Results may vary on other systems.
 
 ## pwnable.yaml
 
